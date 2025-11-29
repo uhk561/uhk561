@@ -7,7 +7,7 @@ REST API 설계, DB 설계, 인증/인가 구현을 학습 중이며, 클린 아
 ---
 
 ## 👀 Visitors  
-[![Visits](https://u8views.com/api/v1/github/profiles/uhk561/views/day.svg)](https://u8views.com/github/uhk561)
+[![Hits](https://hits.sh/uhk561.svg)](https://hits.sh/uhk561/)
 
 
 ---
