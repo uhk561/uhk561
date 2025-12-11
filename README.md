@@ -7,7 +7,8 @@ REST API 설계, DB 설계, 인증/인가 구현을 학습 중이며, 클린 아
 ---
 
 ## 👀 Visitors  
-[![Hits](https://hits.sh/uhk561.svg)](https://hits.sh/uhk561/)
+![Visitors](https://komarev.com/ghpvc/?username=uhk561&label=Profile%20Views&color=blue&style=flat)
+
 
 
 ---
@@ -66,8 +67,18 @@ REST API 설계, DB 설계, 인증/인가 구현을 학습 중이며, 클린 아
 ---
 
 # 📊 GitHub Stats  
-![uhk561's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhk561&show_icons=true&theme=tokyonight)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uhk561&layout=compact&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uhk561&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uhk561&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=uhk561&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=uhk561&theme=tokyonight&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
