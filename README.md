@@ -78,7 +78,8 @@ REST API 설계, DB 설계, 인증/인가 구현을 학습 중이며, 클린 아
 ---
 
 ## 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=uhk561&theme=tokyonight&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uhk561&theme=tokyonight&column=6)]
+
 
 ---
 
